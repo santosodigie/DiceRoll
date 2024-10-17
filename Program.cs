@@ -14,5 +14,17 @@ while (!exit)
     int cpu = rnd.Next(1, 7);
     Console.WriteLine($"\nYou rolled {user}");
     Console.WriteLine($"\nThe cpu rolled {cpu}");
+    if (user > cpu)
+    {
+        Console.WriteLine("Congrats you win");
+    }
+    else if (cpu > user)
+    {
+        Console.WriteLine("Sorry you lost");
+    }
+    else
+    {
+        Console.WriteLine("You drew");
+    }
     Console.WriteLine("_________________________________");
 }
