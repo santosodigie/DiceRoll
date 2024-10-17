@@ -1,0 +1,15 @@
+/Users/santosodigie/CSharpProjects/DiceRoll/bin/Debug/net7.0/DiceRoll
+/Users/santosodigie/CSharpProjects/DiceRoll/bin/Debug/net7.0/DiceRoll.deps.json
+/Users/santosodigie/CSharpProjects/DiceRoll/bin/Debug/net7.0/DiceRoll.runtimeconfig.json
+/Users/santosodigie/CSharpProjects/DiceRoll/bin/Debug/net7.0/DiceRoll.dll
+/Users/santosodigie/CSharpProjects/DiceRoll/bin/Debug/net7.0/DiceRoll.pdb
+/Users/santosodigie/CSharpProjects/DiceRoll/obj/Debug/net7.0/DiceRoll.csproj.AssemblyReference.cache
+/Users/santosodigie/CSharpProjects/DiceRoll/obj/Debug/net7.0/DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santosodigie/CSharpProjects/DiceRoll/obj/Debug/net7.0/DiceRoll.AssemblyInfoInputs.cache
+/Users/santosodigie/CSharpProjects/DiceRoll/obj/Debug/net7.0/DiceRoll.AssemblyInfo.cs
+/Users/santosodigie/CSharpProjects/DiceRoll/obj/Debug/net7.0/DiceRoll.csproj.CoreCompileInputs.cache
+/Users/santosodigie/CSharpProjects/DiceRoll/obj/Debug/net7.0/DiceRoll.dll
+/Users/santosodigie/CSharpProjects/DiceRoll/obj/Debug/net7.0/refint/DiceRoll.dll
+/Users/santosodigie/CSharpProjects/DiceRoll/obj/Debug/net7.0/DiceRoll.pdb
+/Users/santosodigie/CSharpProjects/DiceRoll/obj/Debug/net7.0/DiceRoll.genruntimeconfig.cache
+/Users/santosodigie/CSharpProjects/DiceRoll/obj/Debug/net7.0/ref/DiceRoll.dll
